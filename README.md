@@ -15,7 +15,16 @@ We will use Machine Learning ALgorihtms in this project.
 
 We have used Python Programming for project
 
-# Need help/Project ?
+Research Paper (Base paper)
+1. https://esource.dbs.ie/handle/10788/4251
+2. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3428211
+3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8049129/
+4. https://journalofbigdata.springeropen.com/articles/10.1186/s40537-018-0145-4
+
+
+# Need help/Project files ?
+
+Contact for any kind of help on Computer Science Projects. 
 
 Mail : vatshayan007@gmail.com
 
