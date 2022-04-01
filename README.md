@@ -11,10 +11,7 @@ Problem :
 
 The task is to build network intrusion detection system to detect anomalies and attacks in the network.
 
-There are two problems.
-
-1. Binomial Classification: Activity is normal or attack.
-2. Multinomial classification: Activity is normal or DOS or PROBE or R2L or U2R .
+We will use Machine Learning ALgorihtms in this project.
 
 We have used Python Programming for project
 
