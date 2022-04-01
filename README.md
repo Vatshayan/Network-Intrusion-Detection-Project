@@ -15,3 +15,12 @@ There are two problems.
 
 1. Binomial Classification: Activity is normal or attack.
 2. Multinomial classification: Activity is normal or DOS or PROBE or R2L or U2R .
+
+We have used Python Programming for project
+
+# Need help/Project ?
+
+Mail : vatshayan007@gmail.com
+
+Website : https://www.cse-projects.com/
+
