@@ -23,7 +23,7 @@ Research Paper (Base paper)
 3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8049129/
 4. https://journalofbigdata.springeropen.com/articles/10.1186/s40537-018-0145-4
 
-### Contact for PRoject Files Such as Code and Documents 
+### Contact for Project Files Such as Code and Documents 
 
 ## Need help/Project files ?
 
