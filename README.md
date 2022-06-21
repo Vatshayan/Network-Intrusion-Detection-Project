@@ -33,6 +33,6 @@ Mail : vatshayan007@gmail.com
 
 Website : https://www.cse-projects.com/
 
-Computer Science Project List : https://computerscienceproject.com/
+Computer Science Project List : https://www.computer-science-project.in/
 
 Another Malware Project : https://github.com/Vatshayan/MALWARE-DETECTION-FINAL-YEAR-PROJECT
