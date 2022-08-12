@@ -23,16 +23,18 @@ Research Paper (Base paper)
 3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8049129/
 4. https://journalofbigdata.springeropen.com/articles/10.1186/s40537-018-0145-4
 
-### Contact for Project Files Such as Code and Documents 
+### Need Code, Documents & Explanation video ? 
 
-## Need help/Project files ?
+## How to Reach me :
 
-Contact for any kind of help on Computer Science Projects. 
+### Mail : vatshayan007@gmail.com 
 
-Mail : vatshayan007@gmail.com
+### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
-Website : https://www.cse-projects.com/
+### Website : https://www.finalproject.in/
 
-Computer Science Project List : https://www.computer-science-project.in/
+### 1000 Computer Science Projects : https://www.computer-science-project.in/
+
+Mail/Message me for Projects Help 🙏🏻
 
 Another Malware Project : https://github.com/Vatshayan/MALWARE-DETECTION-FINAL-YEAR-PROJECT
